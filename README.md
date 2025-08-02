@@ -1,4 +1,4 @@
-#Heartician – Pocket ECG with AI Diagnostics
+# Heartician – Pocket ECG with AI Diagnostics
 
 **Heartician** is our custom-built **portable ECG sensor system** that fits in your pocket.  
 It captures real-time heart activity, collects data, and runs an **on-device Machine Learning model** to help in the early identification of heart diseases.  
